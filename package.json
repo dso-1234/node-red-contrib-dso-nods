@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "default"
+    "url": "git+https://github.com/dso-1234/node-red-contrib-dso-nods.git"
   },
   "keywords": [
     "dso"
